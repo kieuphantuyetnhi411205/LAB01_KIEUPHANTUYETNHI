@@ -11,4 +11,4 @@ while n <= 0:
     n = int(input("Nhập lại n: "))
 for i in range(1, n + 1, 2):
     S *= i
-print("Tổng là: ", S)
+print("Tich là: ", S)

@@ -17,5 +17,5 @@ if b > c:
 print("Thứ tự tăng dần: ", a, b, c)
 # Câu b
 N = input("Nhập 1 số nguyên: ")
-day_so = "".join(sorted(N))
+day_so ="".join(sorted(N))
 print("Dãy số theo thứ tự tăng dần: ", day_so)

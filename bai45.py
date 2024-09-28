@@ -9,6 +9,7 @@ ts = 1
 ms = 0
 s = 0    
 n = int(input("Nhập n: "))
+x = int(input("Nhập x: "))
 while n<=0:
     n=int(input("Nhập lại n: "))
     x=float(input("Nhập x: "))

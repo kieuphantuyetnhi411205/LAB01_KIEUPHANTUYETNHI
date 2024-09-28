@@ -30,3 +30,20 @@ h = random.randint(-79,-39)
 i = random.uniform(-79,-39)
 print ("số nguyên ngẫu nhiên là: ",h)
 print ("số thực ngẫu nhiên là: ",i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

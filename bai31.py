@@ -8,7 +8,7 @@ Created on Fri Sep 20 23:17:17 2024
 a = float(input("Nhập số nguyên dương a: "))
 b = float(input("Nhập số nguyên dương b: "))
 c = float(input("Nhập số nguyên dương c: "))
-if a+b>c and a+c>b and b+c>a:
+if a+b>c or a+c>b or b+c>a:
     if a == b == c:
         print("tam giác đều")
     elif a==b or b==c or a==c:

@@ -11,5 +11,5 @@ r = float(input("Nhập bán kính hình tròn: "))
 chu_vi = 2 * math.pi * r
 dien_tich = math.pi*r**2
 # In ra kết quả
-print("Chu vi hình tròn là:", format(chu_vi, '.2f'))
-print("Diện tích hình tròn là:", format(dien_tich, '.2f'))
+print("Chu vi hình tròn là: ", chu_vi)
+print("Diện tích hình tròn là: ", dien_tich)

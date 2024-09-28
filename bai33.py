@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 21 15:11:37 2024
+Created on Fri Sep 27 23:14:18 2024
 
 @author: Dell
 """
@@ -15,4 +15,3 @@ if n == can_2**2:
     print("Số chính phương")
 else:
     print("Không là số chính phương")
-    
